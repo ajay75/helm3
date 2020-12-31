@@ -56,8 +56,8 @@ Sprig Project provides function in Helm Template Engine:
 http://masterminds.github.io/sprig/
 
 
-![Screenshot](HelmFunctionPipeline.jpg)
+![Screenshot](HelmFunctionPipeline.png)
 
-![Screenshot](HelmLogicalOperator.jpg)
+![Screenshot](HelmLogicalOperator.png)
 
-![Screenshot](HelmVariable.jpg)
+![Screenshot](HelmVariable.png)
